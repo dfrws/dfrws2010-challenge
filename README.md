@@ -1,6 +1,12 @@
 # dfrws2010-challenge
 The DFRWS2010 Challenge Results Challenge offered a chance to perform forensic analysis of memory dumps from a Sony Ericsson mobile device. This challenge was designed to be accessible to a wide audience, combined accessible forensic analysis tasks with some harder problems. We were pleased that the submissions this year came from not just researchers and developers, but also practitioners in the community.  Some aspects of the challenge could not be completed using existing tools and new techniques had to be developed. However, many of the questions could be answered without developing new approaches.
 
+## The Winner
+
+The winning submission for the DFRWS2010 Forensic Challenge was from Solal Jacob. This submission has two parts:
+- Analysis of data using open source tools with some specialized modules. This report has some a typographical errors, including a parameter selection (0xa not 0x4 is set to 4c9e).
+- Technical document detailing data structures and low-level analysis required to develop modules.
+
 ## Scenario Background
 After an extensive undercover operation, a known arms dealer named Monsieur Victor, commonly known as "The General," was lured out of hiding and apprehended in the Netherlands. He had expected a meeting to finalize a large sale of weapons, including tanks, missiles, attack helicopters, and assault rifles. Instead he met with police. When he realized the situations, he threw a mobile device in a nearby canal. The device was later retrieved by scuba divers, and was found to be a Sony Ericsson K800i Cybershot.
 
