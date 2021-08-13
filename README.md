@@ -22,7 +22,7 @@ You have been asked to recover any evidence that can connect Monsieur Victor to 
 
 ## Challenge Data
 
-The acquired data is contained in two files: SonyEricsson_K800i_NAND_NAND512R3A.bin and SonyEricsson_K800i_Norflash_PF38F5060M0Y0BE.dmp. Audit logs and hash values are also provided. These files can be found in a 33MB Zip file. *too big for github*
+The acquired data is contained in two files: SonyEricsson_K800i_NAND_NAND512R3A.bin and SonyEricsson_K800i_Norflash_PF38F5060M0Y0BE.dmp. Audit logs and hash values are also provided. These files can be found in a 33MB Zip file [dfrws2010-challenge.zip](https://www.dropbox.com/s/wybw2kim5ikimqb/dfrws2010-challenge.zip?dl=0).
 
 Additional data was released when the results were released and is available in [SonyEricsson_K800i.xry](SonyEricsson_K800i.xry). A reader for [the XRY file](XRY_Reader_5.0.1.zip) is also available.
 
